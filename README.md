@@ -1,7 +1,5 @@
-<div align="center"> 
-<h1 align="center">¡Hola!, soy <a href="https://aristi.dev">Mateo Romero</a> 🧑‍💻</h1>
-</div>
-<img src="https://atrahunt.com/wp-content/uploads/2022/07/portada-que-es-el-diseno-web.jpg">
+<h1 align="center">Hola 👋, Me llamo Mateo Fernandez Romero</h1>
+<h3 align="center">Les presento Mi Portafolio</h3>
 
 ## Sobre Mi 
 - 📱 Diseñador de Paginas Web
